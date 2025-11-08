@@ -1,8 +1,8 @@
-# 🚀 PROJETO: AGENDA DE CONTATOS
+# PROJETO: AGENDA DE CONTATOS
 
 ## 📄 Descrição
 
-Projeto acadêmico para criar um sistema de "Agenda de Contatos" capaz de armazenar e gerenciar dados pessoais (nome, telefone, e-mail). O desenvolvimento é incremental, evoluindo de um cadastro simples para uma aplicação robusta com validação de dados, busca e armazenamento múltiplo usando `structs`, e modularizado em funções com menu interativo.
+Projeto acadêmico para criar um sistema de "Agenda de Contatos" capaz de armazenar e gerenciar dados pessoais (nome, telefone, e-mail). O desenvolvimento é incremental, evoluindo de um cadastro simples para uma aplicação robusta com validação de dados, busca e armazenamento múltiplo usando `structs`, e modularizado em funções.
 
 ## 🎯 Objetivo
 
